@@ -8,11 +8,11 @@
 
 <b>Analyses:</b>
 <ul>
- <li>Identify customer’s rating based onclass</li>
- <li>Identify customer’s rating based onairlines on lowest rated class</li>
- <li>Identify areas of improvement for thelowest rated class</li>
- <li>Find the most popular words used innegative reviews</li>
- <li>Calculate the likelihood of peoplerecommending the airlines to others</li>
+ <li>Identify customer’s rating based on class</li>
+ <li>Identify customer’s rating based on airlines on lowest rated class</li>
+ <li>Identify areas of improvement for the lowest rated class</li>
+ <li>Find the most popular words used in negative reviews</li>
+ <li>Calculate the likelihood of people recommending the airlines to others</li>
 </ul>
 
 <b>Tools and Techonologies Used:</b>
